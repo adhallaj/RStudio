@@ -8,4 +8,4 @@ Vector: Sequence of data points that are the same type, combined with the c() if
 		
 Data Frame: List of vectors of equal length. Combine vectors into a data frame with the following command:
 
-		vactorsabc <- data.frame(vectora, vectorb, vectorc)
+		vectorsabc <- data.frame(vectora, vectorb, vectorc)
